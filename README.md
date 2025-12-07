@@ -35,6 +35,10 @@ cd portfolio-website
 
 Open `index.html` in your web browser to view the portfolio.
 
+Or click the button below to view it online:
+
+[![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge&logo=github)](https://github.com/ahmedramadan14/portfolio)
+
 ## Contributing
 
 Feel free to fork this repository and submit pull requests.
