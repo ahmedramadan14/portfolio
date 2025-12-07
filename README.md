@@ -37,7 +37,7 @@ Open `index.html` in your web browser to view the portfolio.
 
 Or click the button below to view it online:
 
-[![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge&logo=github)](https://github.com/ahmedramadan14/portfolio)
+[![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge&logo=github)](https://ahmedramadan14.github.io/portfolio/)
 
 ## Contributing
 
